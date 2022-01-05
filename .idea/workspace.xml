@@ -20,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
@@ -35,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1kuTXR3LN3m6CHQVwcqKpXFlcVM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -221,7 +225,7 @@
       <workItem from="1640567198416" duration="5325000" />
       <workItem from="1640575147662" duration="2010000" />
       <workItem from="1640587946581" duration="16163000" />
-      <workItem from="1640700732558" duration="25923000" />
+      <workItem from="1640700732558" duration="26224000" />
     </task>
     <servers />
   </component>
