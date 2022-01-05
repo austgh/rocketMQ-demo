@@ -1,0 +1,4 @@
+# Project exclude paths
+/rocketMQ-API/target/
+/SC-rocketmq/target/
+/SpringBoot-rocketmq/target/
